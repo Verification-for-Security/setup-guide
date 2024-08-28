@@ -24,7 +24,7 @@ Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install). WSL is
 essentially an Ubuntu terminal available on Windows, which should make builds as
 straightforward as running them through Ubuntu!
 
-**Important** Remember that for subsequent installations, you should now follow
+**Important:** Remember that for subsequent installations, you should now follow
 the instructions for a Debian (Linux) based system, executing the commands
 inside of WSL. WSL will not be able to locate software installed directly
 on windows!
